@@ -72,7 +72,7 @@ This guide provides a comprehensive approach to analyzing and visualizing custom
 
 ![image](https://github.com/user-attachments/assets/3012bfcf-d112-44cf-aec6-4e926bd904cf)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6ec16ae3-1a64-43ee-be51-8c655762f0b4)
 
 
 
